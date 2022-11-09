@@ -1,0 +1,12 @@
+500kb.txt:0:rw
+500kb.txt:1:rw
+500kb.txt:2:rw
+500kb.txt:3:rw
+500kb.txt:4:rw
+500kb.txt:5:rw
+test.txt:0:rw
+test.txt:1:rw
+test.txt:2:rw
+test.txt:3:rw
+test.txt:4:rw
+test.txt:5:rw

@@ -1,0 +1,6 @@
+Arthur:0:0
+Sans:1:0
+Scout:2:0
+Steve:3:1
+GlaDos:4:1
+Penny:5:1
